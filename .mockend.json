@@ -1,5 +1,9 @@
 {
   "Encode": {
     "encodedValue": { "string": {} }
-  }
+  },
+  "Decode": {
+    "decodedValue": { "string": {} }
+  },
+  
 }
