@@ -3,6 +3,6 @@
     "encodedValue": { "string": {} }
   },
   "Decode": {
-    "decodedValue": { "string": {} }
+    "decodedValue": { "regexp": "#[0-9]{9,19}=[0-9]{7}" }
   }
 }
