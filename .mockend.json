@@ -1,6 +1,6 @@
 {
   "Encode": {
-    "encodedValue": { "regexp": "[0-9][A-F]{16}" }
+    "encodedValue": { "regexp": "([0-9][A-F]){16}" }
   },
   "Decode": {
     "decodedValue": { "regexp": "[2-9]{9,19}=[0-9]{7}" }
